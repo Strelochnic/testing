@@ -1,2 +1,1 @@
-# testing
-This is lesson of git
+new exp
